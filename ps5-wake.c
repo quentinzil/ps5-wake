@@ -41,7 +41,7 @@
 #define _DDP_VERSION        "00030010"
 #define _DDP_CLIENTTYPE     "vr"
 #define _DDP_AUTHTYPE       "R"
-#define _DDP_MODEL          "m"
+#define _DDP_MODEL          "q"
 #define _DDP_APPTYPE        "r"
 
 #define _EXIT_SUCCESS       0
